@@ -22,7 +22,7 @@ A realtime chatting application built in Laravel and Vue.
 ## Getting started
 ```bash
 # clone this repository
-git clone https://github.com/iqbaltaufiq/laravel-chat-app.git
+git clone https://github.com/Fabedc/laravel-chat-app.git
 
 # change into project directory
 cd laravel-chat-app
@@ -105,4 +105,4 @@ Unfortunately, this app supported text-based message only. You can neither send 
 ## License
 MIT License
 
-Copyright &copy; 2021 [Iqbal Taufiqurrahman](https://github.com/iqbaltaufiq)
+Copyright &copy; 2021 [Faber Daniel](https://github.com/Fabedc)
